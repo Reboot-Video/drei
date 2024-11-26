@@ -9,7 +9,7 @@ export * from './Select'
 export * from '../core'
 
 // Portal
-export * from './View'
+export * from './view/View'
 
 // Gizmos
 export * from './pivotControls'
